@@ -34,7 +34,7 @@ Python · TypeScript · FastAPI · Node.js · Next.js · SQL · WebSocket · Doc
 ## Current public build directions
 
 - deer-flow: deep research workflow engineering with a focus on reliability, execution, and AI delivery
-- agent-delivery-lab: practical patterns for shipping reliable AI and agent systems
+- agent-delivery-lab: a delivery-readiness evaluator and practical patterns for shipping reliable AI and agent systems
 
 ## What I value
 
