@@ -48,12 +48,29 @@ I use deer-flow as a product-oriented AI application layer:
 - A product team needs help moving from demo-stage AI to a deliverable system
 - An organization wants AI landing plans that combine product value and engineering execution
 
-## Why work with me
+## Why teams bring me in
 
-- Real OpenClaw engineering contribution background
-- Hands-on focus on workflow reliability and execution quality
-- Able to combine platform capability, backend engineering, and business delivery
-- Comfortable working from architecture, delivery design, and implementation details together
+- I work on real AI engineering systems, not only concept demos
+- I have ongoing OpenClaw contribution experience, including merged fixes and continued engineering submissions
+- I stay close to workflow reliability, execution quality, and production constraints
+- I can move across architecture, backend implementation, workflow design, and delivery planning
+- I focus on making AI products usable in business environments, not just technically interesting
+
+## Proof of execution
+
+- Multiple engineering fixes already merged into OpenClaw
+- Continued OpenClaw contribution activity across workflow, execution, and reliability topics
+- Ongoing public work around deer-flow and delivery-oriented AI engineering
+- Repeated focus on turning AI workflows into systems that are easier to operate, evaluate, and ship
+- Practical understanding of both platform capability and scenario-based implementation
+
+## Technical strengths
+
+- Agent workflow orchestration and execution design
+- Tool routing, backend integration, and reliability improvements
+- AI application delivery for enterprise and internal-use scenarios
+- Turning product requirements into implementable AI workflow systems
+- Bridging platform engineering and business-facing use-case delivery
 
 ## Current focus
 
