@@ -31,6 +31,11 @@ My work sits at the intersection of LLM applications, agent workflows, backend e
 
 Python · TypeScript · FastAPI · Node.js · Next.js · SQL · WebSocket · Docker · LLM tooling · Agent systems
 
+## Current public build directions
+
+- deer-flow: deep research workflow engineering with a focus on reliability, execution, and AI delivery
+- agent-delivery-lab: practical patterns for shipping reliable AI and agent systems
+
 ## What I value
 
 - Systems that are understandable, testable, and maintainable
